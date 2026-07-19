@@ -1,0 +1,28 @@
+{
+  "items": [
+    { "category": "trung-bay", "title": "Kệ gỗ 3 tầng, khung sắt sơn tĩnh điện", "image": "assets/images/p01.png", "price": "1.950.000đ" },
+    { "category": "trung-bay", "title": "Kệ đảo 2 tầng dáng lục giác, mâm gỗ thông", "image": "assets/images/p05.jpg", "price": "3.300.000đ" },
+    { "category": "trung-bay", "title": "Kệ gỗ 3 tầng, mặt kính chắn phía sau", "image": "assets/images/p06.png", "price": "2.250.000đ" },
+    { "category": "trung-bay", "title": "Kệ đảo góc bát giác, đặt trong siêu thị mini", "image": "assets/images/p07.png", "price": "2.980.000đ" },
+    { "category": "trung-bay", "title": "Kệ 3 tầng dạng thang, tối ưu góc tường", "image": "assets/images/p08.jpg", "price": "1.750.000đ" },
+    { "category": "trung-bay", "title": "Kệ 3 tầng nghiêng, phù hợp cạnh tủ đông", "image": "assets/images/p09.jpg", "price": "1.890.000đ" },
+    { "category": "trung-bay", "title": "Kệ đảo cỡ lớn, lắp đặt mặt tiền cửa hàng", "image": "assets/images/p10.jpg", "price": "4.100.000đ" },
+    { "category": "trung-bay", "title": "Kệ 3 tầng dài 3m, đặt sát tường cửa hàng", "image": "assets/images/p11.jpg", "price": "3.600.000đ" },
+
+    { "category": "sieu-thi", "title": "Kệ đảo trung tâm \"4+2\", dài 3.6m", "image": "assets/images/p03.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ mâm inox 3 tầng, dễ vệ sinh", "image": "assets/images/p04.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị màu ghi, 5 tầng, lắp trọn bộ", "image": "assets/images/s01.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị mâm gỗ vân nâu, khung đen", "image": "assets/images/s02.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị mâm gỗ sáng màu, nhiều dãy", "image": "assets/images/s03.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị màu ghi đậm, viền lưới thép", "image": "assets/images/s04.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị 4 tầng, mâm rộng chịu lực", "image": "assets/images/s05.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị mâm gỗ, khung đen 5 tầng", "image": "assets/images/s06.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị mâm gỗ, kèm minh họa bày hàng", "image": "assets/images/s07.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị màu trắng, đầu kệ lưới thép", "image": "assets/images/s08.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị đôi màu trắng, 2 mặt trưng bày", "image": "assets/images/s09.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị màu ghi xanh, mâm sâu chịu lực", "image": "assets/images/s10.jpg", "price": "Liên hệ báo giá" },
+    { "category": "sieu-thi", "title": "Kệ siêu thị mâm gỗ, dãy dài nhiều module", "image": "assets/images/s11.jpg", "price": "Liên hệ báo giá" },
+
+    { "category": "kho", "title": "Kệ sắt V lỗ, kệ trung tải — ảnh cập nhật", "image": "", "price": "Liên hệ báo giá" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "hero_image": "assets/images/p05.jpg",
+  "categories": [
+    {
+      "num": "01 — Trưng bày",
+      "title": "Kệ trưng bày hoa quả",
+      "desc": "Khung sắt sơn tĩnh điện, mâm gỗ thông tự nhiên, 1–3 tầng, tùy chỉnh kích thước theo mặt bằng.",
+      "image": "assets/images/p06.png",
+      "link": "products.html#trung-bay"
+    },
+    {
+      "num": "02 — Lưu kho",
+      "title": "Kệ kho, kệ chứa hàng",
+      "desc": "Khung thép tải trọng cao, dạng mâm inox hoặc gỗ công nghiệp, tối ưu diện tích lưu trữ.",
+      "image": "assets/images/p04.jpg",
+      "link": "products.html#kho"
+    },
+    {
+      "num": "03 — Siêu thị",
+      "title": "Kệ siêu thị, kệ đảo",
+      "desc": "Kệ đảo trung tâm, kệ tường nhiều tầng — module lắp ghép linh hoạt cho siêu thị mini và cửa hàng tiện lợi.",
+      "image": "assets/images/s06.jpg",
+      "link": "products.html#sieu-thi"
+    }
+  ]
+}

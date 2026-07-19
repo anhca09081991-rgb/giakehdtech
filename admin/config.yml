@@ -1,0 +1,49 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/images"
+public_folder: "assets/images"
+
+locale: "vi"
+
+collections:
+  - name: "products"
+    label: "Sản phẩm"
+    files:
+      - name: "products"
+        label: "Danh sách sản phẩm"
+        file: "data/products.json"
+        fields:
+          - label: "Sản phẩm"
+            name: "items"
+            widget: "list"
+            summary: "{{title}} ({{category}})"
+            fields:
+              - { label: "Danh mục", name: "category", widget: "select", options: [
+                    { label: "Kệ trưng bày hoa quả", value: "trung-bay" },
+                    { label: "Kệ siêu thị / kệ đảo", value: "sieu-thi" },
+                    { label: "Kệ kho", value: "kho" }
+                  ] }
+              - { label: "Tên sản phẩm", name: "title", widget: "string" }
+              - { label: "Ảnh sản phẩm", name: "image", widget: "image", required: false, choose_url: false }
+              - { label: "Giá hiển thị", name: "price", widget: "string", default: "Liên hệ báo giá" }
+
+  - name: "home"
+    label: "Trang chủ"
+    files:
+      - name: "home"
+        label: "Ảnh & danh mục trang chủ"
+        file: "data/home.json"
+        fields:
+          - { label: "Ảnh nền Hero (banner đầu trang)", name: "hero_image", widget: "image" }
+          - label: "3 danh mục sản phẩm"
+            name: "categories"
+            widget: "list"
+            summary: "{{title}}"
+            fields:
+              - { label: "Nhãn số thứ tự", name: "num", widget: "string" }
+              - { label: "Tiêu đề", name: "title", widget: "string" }
+              - { label: "Mô tả ngắn", name: "desc", widget: "text" }
+              - { label: "Ảnh danh mục", name: "image", widget: "image" }
+              - { label: "Đường dẫn khi bấm 'Xem mẫu'", name: "link", widget: "string" }
