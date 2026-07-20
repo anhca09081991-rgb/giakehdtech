@@ -255,5 +255,16 @@
 </footer>
 
 <script src="js/main.js"></script>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", function (user) {});
+    // Khi có link mời / xác nhận / đặt lại mật khẩu trong URL, widget sẽ tự bật popup.
+    // Sau khi đăng nhập thành công, đưa thẳng vào trang quản trị.
+    window.netlifyIdentity.on("login", function () {
+      window.location.href = "/admin/";
+    });
+  }
+</script>
 </body>
 </html>
