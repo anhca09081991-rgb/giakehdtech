@@ -23,6 +23,16 @@
     { "category": "sieu-thi", "title": "Kệ siêu thị màu ghi xanh, mâm sâu chịu lực", "image": "assets/images/s10.jpg", "price": "Liên hệ báo giá" },
     { "category": "sieu-thi", "title": "Kệ siêu thị mâm gỗ, dãy dài nhiều module", "image": "assets/images/s11.jpg", "price": "Liên hệ báo giá" },
 
-    { "category": "kho", "title": "Kệ sắt V lỗ, kệ trung tải — ảnh cập nhật", "image": "", "price": "Liên hệ báo giá" }
+    { "category": "kho", "title": "Kệ sắt V lỗ, kệ trung tải — ảnh cập nhật", "image": "", "price": "Liên hệ báo giá" },
+
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân gỗ, tủ kính trưng bày dáng cong", "image": "assets/images/q01.jpg", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân màu hồng pastel, có kệ trưng bày", "image": "assets/images/q02.png", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân hồng pastel, mặt gỗ, nhiều ngăn", "image": "assets/images/q03.png", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân 2 tông màu xanh – hồng", "image": "assets/images/q04.png", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân màu trắng hiện đại", "image": "assets/images/q05.jpg", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân gỗ 2 tông, thiết kế tối giản", "image": "assets/images/q06.jpg", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân màu xanh dương pastel", "image": "assets/images/q07.png", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân gỗ 3 khoang, nhiều ngăn chứa đồ", "image": "assets/images/q08.jpg", "price": "Liên hệ báo giá" },
+    { "category": "quay-thu-ngan", "title": "Quầy thu ngân mặt đá, kèm kệ trưng bày phía sau", "image": "assets/images/q09.jpg", "price": "Liên hệ báo giá" }
   ]
 }

@@ -22,5 +22,12 @@
       "image": "assets/images/s06.jpg",
       "link": "products.html#sieu-thi"
     }
+    {
+      "num": "04 — Thu ngân",
+      "title": "Quầy thu ngân",
+      "desc": "Quầy đóng theo yêu cầu: mặt gỗ/mặt đá, ngăn kéo tiền, kệ trưng bày phía trước — nhiều màu sắc, phù hợp shop tạp hóa, mini mart, văn phòng phẩm.",
+      "image": "assets/images/q01.jpg",
+      "link": "products.html#quay-thu-ngan"
+    }
   ]
 }

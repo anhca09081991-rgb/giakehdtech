@@ -245,6 +245,7 @@ section{ padding: 96px 0; }
 
 /* ---------- Category / Product cards ---------- */
 .grid-3{ display:grid; grid-template-columns: repeat(3,1fr); gap: 28px; }
+.grid-4{ display:grid; grid-template-columns: repeat(4,1fr); gap: 24px; }
 .grid-2{ display:grid; grid-template-columns: repeat(2,1fr); gap: 28px; }
 .cat-card{
   background: var(--charcoal);
@@ -389,7 +390,7 @@ table.price-table{
 
 /* ---------- Responsive ---------- */
 @media (max-width: 980px){
-  .grid-3, .product-grid{ grid-template-columns: repeat(2,1fr); }
+  .grid-3, .grid-4, .product-grid{ grid-template-columns: repeat(2,1fr); }
   .features{ grid-template-columns: repeat(2,1fr); }
   .footer-grid{ grid-template-columns: 1fr 1fr; }
   .contact-wrap{ grid-template-columns: 1fr; }
@@ -398,7 +399,7 @@ table.price-table{
   .nav-links, .nav-cta .btn-line, .nav-cta .phone-chip{ display:none; }
   .nav-toggle{ display:flex; }
   .hero-inner{ padding: 90px 0 60px; }
-  .grid-3, .grid-2, .product-grid, .features{ grid-template-columns: 1fr; }
+  .grid-3, .grid-4, .grid-2, .product-grid, .features{ grid-template-columns: 1fr; }
   .footer-grid{ grid-template-columns: 1fr; }
   .cta-band .container{ flex-direction:column; align-items:flex-start; }
   table.price-table{ font-size:13px; }

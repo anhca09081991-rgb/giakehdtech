@@ -4,7 +4,8 @@
 var CATEGORY_LABELS = {
   "trung-bay": "Kệ trưng bày",
   "sieu-thi": "Kệ siêu thị",
-  "kho": "Kệ kho"
+  "kho": "Kệ kho",
+  "quay-thu-ngan": "Quầy thu ngân"
 };
 
 function loadJson(url, onSuccess, onError) {

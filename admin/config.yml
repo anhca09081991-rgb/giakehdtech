@@ -23,6 +23,7 @@ collections:
               - { label: "Danh mục", name: "category", widget: "select", options: [
                     { label: "Kệ trưng bày hoa quả", value: "trung-bay" },
                     { label: "Kệ siêu thị / kệ đảo", value: "sieu-thi" },
+                    { label: "Quầy thu ngân", value: "quay-thu-ngan" },
                     { label: "Kệ kho", value: "kho" }
                   ] }
               - { label: "Tên sản phẩm", name: "title", widget: "string" }
